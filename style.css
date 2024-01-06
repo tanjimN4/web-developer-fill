@@ -2,6 +2,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+   margin: 0px 200px;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -31,7 +32,7 @@ nav a{
 color: var(--Dark-02, #474747);
 }
 .primary{
-    width: 100px;
+    width: 150px;
 height: 64px;
 flex-shrink: 0;
 border-radius: 5px;
@@ -43,4 +44,33 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 border: none;
+}
+.header{
+    background: #FFF8F3;
+}
+.banar{
+    padding: 30px 30px 30px 150px;
+   display: flex;
+   align-items: center;
+}
+.primary2{
+    color: #FD6E0A;
+text-align: center;
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+width: 160px;
+height: 64px;
+flex-shrink: 0;
+
+border-radius: 5px;
+border: 1px solid #FD6E0A;
+}
+.tanjimphoto{
+    width: 584px;
+    height: 676px;
+    flex-shrink: 0;
 }
