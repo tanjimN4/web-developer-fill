@@ -204,3 +204,19 @@ box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
 .cv{
     text-align: center;}
+    
+
+.foterbuy{
+ text-align: left;
+}
+.foterbuyn{
+    text-align: right;
+}
+
+.footnew{
+    color: var(--Dark-02, #474747);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */ }
